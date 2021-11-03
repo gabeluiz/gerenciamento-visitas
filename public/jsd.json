@@ -1,0 +1,1324 @@
+[
+    {
+        "energia01": {
+            "metadata": {
+                "name": "Consumo de energia elétrica",
+                "eixoTematico": "Energia",
+                "subeixo": null,
+                "periodicidade": "Anual",
+                "abrangencia": "Municipal",
+                "fonte": "IPPUC - Instituto de Pesquisa e Planejamento Urbano de Curitiba",
+                "baseDados": "IPPUC - Instituto de Pesquisa e Planejamento Urbano de Curitiba",
+                "conceito": null,
+                "unidade": "Megawatt-hora (MWh)",
+                "categoryLabel": "Setor",
+                "singlePlace": "Curitiba",
+                "chartType": "streamgraph"
+            },
+            "data": [
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 426709.0,
+                    "dateOrder": "1990",
+                    "date": "1990"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 668289.0,
+                    "dateOrder": "1990",
+                    "date": "1990"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 232174.0,
+                    "dateOrder": "1990",
+                    "date": "1990"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 713913.0,
+                    "dateOrder": "1990",
+                    "date": "1990"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 524.0,
+                    "dateOrder": "1990",
+                    "date": "1990"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 2041609.0,
+                    "dateOrder": "1990",
+                    "date": "1990"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 452085.0,
+                    "dateOrder": "1991",
+                    "date": "1991"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 675106.0,
+                    "dateOrder": "1991",
+                    "date": "1991"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 238372.0,
+                    "dateOrder": "1991",
+                    "date": "1991"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 761451.0,
+                    "dateOrder": "1991",
+                    "date": "1991"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 605.0,
+                    "dateOrder": "1991",
+                    "date": "1991"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 2127619.0,
+                    "dateOrder": "1991",
+                    "date": "1991"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 476155.0,
+                    "dateOrder": "1992",
+                    "date": "1992"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 699048.0,
+                    "dateOrder": "1992",
+                    "date": "1992"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 252220.0,
+                    "dateOrder": "1992",
+                    "date": "1992"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 782086.0,
+                    "dateOrder": "1992",
+                    "date": "1992"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 608.0,
+                    "dateOrder": "1992",
+                    "date": "1992"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 2210117.0,
+                    "dateOrder": "1992",
+                    "date": "1992"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 508703.0,
+                    "dateOrder": "1993",
+                    "date": "1993"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 767661.0,
+                    "dateOrder": "1993",
+                    "date": "1993"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 266937.0,
+                    "dateOrder": "1993",
+                    "date": "1993"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 816021.0,
+                    "dateOrder": "1993",
+                    "date": "1993"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 669.0,
+                    "dateOrder": "1993",
+                    "date": "1993"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 2359991.0,
+                    "dateOrder": "1993",
+                    "date": "1993"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 534684.0,
+                    "dateOrder": "1994",
+                    "date": "1994"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 827615.0,
+                    "dateOrder": "1994",
+                    "date": "1994"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 282306.0,
+                    "dateOrder": "1994",
+                    "date": "1994"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 855301.0,
+                    "dateOrder": "1994",
+                    "date": "1994"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 588.0,
+                    "dateOrder": "1994",
+                    "date": "1994"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 2500494.0,
+                    "dateOrder": "1994",
+                    "date": "1994"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 589779.0,
+                    "dateOrder": "1995",
+                    "date": "1995"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 916935.0,
+                    "dateOrder": "1995",
+                    "date": "1995"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 300137.0,
+                    "dateOrder": "1995",
+                    "date": "1995"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 952657.0,
+                    "dateOrder": "1995",
+                    "date": "1995"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 591.0,
+                    "dateOrder": "1995",
+                    "date": "1995"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 2760099.0,
+                    "dateOrder": "1995",
+                    "date": "1995"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 656086.0,
+                    "dateOrder": "1996",
+                    "date": "1996"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 912207.0,
+                    "dateOrder": "1996",
+                    "date": "1996"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 307054.0,
+                    "dateOrder": "1996",
+                    "date": "1996"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1075512.0,
+                    "dateOrder": "1996",
+                    "date": "1996"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 630.0,
+                    "dateOrder": "1996",
+                    "date": "1996"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 2951489.0,
+                    "dateOrder": "1996",
+                    "date": "1996"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 720657.0,
+                    "dateOrder": "1997",
+                    "date": "1997"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 916072.0,
+                    "dateOrder": "1997",
+                    "date": "1997"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 319186.0,
+                    "dateOrder": "1997",
+                    "date": "1997"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1118240.0,
+                    "dateOrder": "1997",
+                    "date": "1997"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 656.0,
+                    "dateOrder": "1997",
+                    "date": "1997"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 3074811.0,
+                    "dateOrder": "1997",
+                    "date": "1997"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 788471.0,
+                    "dateOrder": "1998",
+                    "date": "1998"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 868501.0,
+                    "dateOrder": "1998",
+                    "date": "1998"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 331155.0,
+                    "dateOrder": "1998",
+                    "date": "1998"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1186875.0,
+                    "dateOrder": "1998",
+                    "date": "1998"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 733.0,
+                    "dateOrder": "1998",
+                    "date": "1998"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 3175735.0,
+                    "dateOrder": "1998",
+                    "date": "1998"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 839523.0,
+                    "dateOrder": "1999",
+                    "date": "1999"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 850304.0,
+                    "dateOrder": "1999",
+                    "date": "1999"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 338632.0,
+                    "dateOrder": "1999",
+                    "date": "1999"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1217734.0,
+                    "dateOrder": "1999",
+                    "date": "1999"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 796.0,
+                    "dateOrder": "1999",
+                    "date": "1999"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 3246989.0,
+                    "dateOrder": "1999",
+                    "date": "1999"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 897468.0,
+                    "dateOrder": "2000",
+                    "date": "2000"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 930638.0,
+                    "dateOrder": "2000",
+                    "date": "2000"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 343261.0,
+                    "dateOrder": "2000",
+                    "date": "2000"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1251270.0,
+                    "dateOrder": "2000",
+                    "date": "2000"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 774.0,
+                    "dateOrder": "2000",
+                    "date": "2000"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 3423411.0,
+                    "dateOrder": "2000",
+                    "date": "2000"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 911204.0,
+                    "dateOrder": "2001",
+                    "date": "2001"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 957551.0,
+                    "dateOrder": "2001",
+                    "date": "2001"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 331114.0,
+                    "dateOrder": "2001",
+                    "date": "2001"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1186497.0,
+                    "dateOrder": "2001",
+                    "date": "2001"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 544.0,
+                    "dateOrder": "2001",
+                    "date": "2001"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 3386910.0,
+                    "dateOrder": "2001",
+                    "date": "2001"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 932016.0,
+                    "dateOrder": "2002",
+                    "date": "2002"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 971107.0,
+                    "dateOrder": "2002",
+                    "date": "2002"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 313210.0,
+                    "dateOrder": "2002",
+                    "date": "2002"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1174131.0,
+                    "dateOrder": "2002",
+                    "date": "2002"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 456.0,
+                    "dateOrder": "2002",
+                    "date": "2002"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 3390920.0,
+                    "dateOrder": "2002",
+                    "date": "2002"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 955419.0,
+                    "dateOrder": "2003",
+                    "date": "2003"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1028474.0,
+                    "dateOrder": "2003",
+                    "date": "2003"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 327740.0,
+                    "dateOrder": "2003",
+                    "date": "2003"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1183632.0,
+                    "dateOrder": "2003",
+                    "date": "2003"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 477.0,
+                    "dateOrder": "2003",
+                    "date": "2003"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 3495742.0,
+                    "dateOrder": "2003",
+                    "date": "2003"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1003977.0,
+                    "dateOrder": "2004",
+                    "date": "2004"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1148995.0,
+                    "dateOrder": "2004",
+                    "date": "2004"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 335871.0,
+                    "dateOrder": "2004",
+                    "date": "2004"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1193742.0,
+                    "dateOrder": "2004",
+                    "date": "2004"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 465.0,
+                    "dateOrder": "2004",
+                    "date": "2004"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 3683050.0,
+                    "dateOrder": "2004",
+                    "date": "2004"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1056423.0,
+                    "dateOrder": "2005",
+                    "date": "2005"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1074265.0,
+                    "dateOrder": "2005",
+                    "date": "2005"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 335536.0,
+                    "dateOrder": "2005",
+                    "date": "2005"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1226837.0,
+                    "dateOrder": "2005",
+                    "date": "2005"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 407.0,
+                    "dateOrder": "2005",
+                    "date": "2005"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 3693466.0,
+                    "dateOrder": "2005",
+                    "date": "2005"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1100461.0,
+                    "dateOrder": "2006",
+                    "date": "2006"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1090020.0,
+                    "dateOrder": "2006",
+                    "date": "2006"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 336030.0,
+                    "dateOrder": "2006",
+                    "date": "2006"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1260221.0,
+                    "dateOrder": "2006",
+                    "date": "2006"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 321.0,
+                    "dateOrder": "2006",
+                    "date": "2006"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 3787048.0,
+                    "dateOrder": "2006",
+                    "date": "2006"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1169776.0,
+                    "dateOrder": "2007",
+                    "date": "2007"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1163877.0,
+                    "dateOrder": "2007",
+                    "date": "2007"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 340207.0,
+                    "dateOrder": "2007",
+                    "date": "2007"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1333602.0,
+                    "dateOrder": "2007",
+                    "date": "2007"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 348.0,
+                    "dateOrder": "2007",
+                    "date": "2007"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 4007813.0,
+                    "dateOrder": "2007",
+                    "date": "2007"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1240910.0,
+                    "dateOrder": "2008",
+                    "date": "2008"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1197730.0,
+                    "dateOrder": "2008",
+                    "date": "2008"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 349203.0,
+                    "dateOrder": "2008",
+                    "date": "2008"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1396266.0,
+                    "dateOrder": "2008",
+                    "date": "2008"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 306.0,
+                    "dateOrder": "2008",
+                    "date": "2008"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 4184417.0,
+                    "dateOrder": "2008",
+                    "date": "2008"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1274284.0,
+                    "dateOrder": "2009",
+                    "date": "2009"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1121370.0,
+                    "dateOrder": "2009",
+                    "date": "2009"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 361887.0,
+                    "dateOrder": "2009",
+                    "date": "2009"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1432516.0,
+                    "dateOrder": "2009",
+                    "date": "2009"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 308.0,
+                    "dateOrder": "2009",
+                    "date": "2009"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 4190364.0,
+                    "dateOrder": "2009",
+                    "date": "2009"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1313769.0,
+                    "dateOrder": "2010",
+                    "date": "2010"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1255457.0,
+                    "dateOrder": "2010",
+                    "date": "2010"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 369389.0,
+                    "dateOrder": "2010",
+                    "date": "2010"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1498169.0,
+                    "dateOrder": "2010",
+                    "date": "2010"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 385.0,
+                    "dateOrder": "2010",
+                    "date": "2010"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 4437174.0,
+                    "dateOrder": "2010",
+                    "date": "2010"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1367633.0,
+                    "dateOrder": "2011",
+                    "date": "2011"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1343730.0,
+                    "dateOrder": "2011",
+                    "date": "2011"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 380871.0,
+                    "dateOrder": "2011",
+                    "date": "2011"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1567806.0,
+                    "dateOrder": "2011",
+                    "date": "2011"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 1157.0,
+                    "dateOrder": "2011",
+                    "date": "2011"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 4661197.0,
+                    "dateOrder": "2011",
+                    "date": "2011"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1404102.0,
+                    "dateOrder": "2012",
+                    "date": "2012"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1328328.0,
+                    "dateOrder": "2012",
+                    "date": "2012"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 382958.0,
+                    "dateOrder": "2012",
+                    "date": "2012"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1580444.0,
+                    "dateOrder": "2012",
+                    "date": "2012"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 1383.0,
+                    "dateOrder": "2012",
+                    "date": "2012"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 4697216.0,
+                    "dateOrder": "2012",
+                    "date": "2012"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1360119.0,
+                    "dateOrder": "2013",
+                    "date": "2013"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1429449.0,
+                    "dateOrder": "2013",
+                    "date": "2013"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 389105.0,
+                    "dateOrder": "2013",
+                    "date": "2013"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1653902.0,
+                    "dateOrder": "2013",
+                    "date": "2013"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 1493.0,
+                    "dateOrder": "2013",
+                    "date": "2013"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 4834068.0,
+                    "dateOrder": "2013",
+                    "date": "2013"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1453946.0,
+                    "dateOrder": "2014",
+                    "date": "2014"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1455623.0,
+                    "dateOrder": "2014",
+                    "date": "2014"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 392867.0,
+                    "dateOrder": "2014",
+                    "date": "2014"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1647747.0,
+                    "dateOrder": "2014",
+                    "date": "2014"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 1581.0,
+                    "dateOrder": "2014",
+                    "date": "2014"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 4951764.0,
+                    "dateOrder": "2014",
+                    "date": "2014"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1458280.0,
+                    "dateOrder": "2015",
+                    "date": "2015"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1383721.0,
+                    "dateOrder": "2015",
+                    "date": "2015"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 389773.0,
+                    "dateOrder": "2015",
+                    "date": "2015"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1500075.0,
+                    "dateOrder": "2015",
+                    "date": "2015"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 1441.0,
+                    "dateOrder": "2015",
+                    "date": "2015"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 4733290.0,
+                    "dateOrder": "2015",
+                    "date": "2015"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1311255.0,
+                    "dateOrder": "2016",
+                    "date": "2016"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1323071.0,
+                    "dateOrder": "2016",
+                    "date": "2016"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 393094.0,
+                    "dateOrder": "2016",
+                    "date": "2016"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1486363.0,
+                    "dateOrder": "2016",
+                    "date": "2016"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 1290.0,
+                    "dateOrder": "2016",
+                    "date": "2016"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 4515074.0,
+                    "dateOrder": "2016",
+                    "date": "2016"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1169761.0,
+                    "dateOrder": "2017",
+                    "date": "2017"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1464759.0,
+                    "dateOrder": "2017",
+                    "date": "2017"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 395132.0,
+                    "dateOrder": "2017",
+                    "date": "2017"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1472990.0,
+                    "dateOrder": "2017",
+                    "date": "2017"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 1136.0,
+                    "dateOrder": "2017",
+                    "date": "2017"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 4503777.0,
+                    "dateOrder": "2017",
+                    "date": "2017"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1128732.0,
+                    "dateOrder": "2018",
+                    "date": "2018"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1489764.0,
+                    "dateOrder": "2018",
+                    "date": "2018"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 394567.0,
+                    "dateOrder": "2018",
+                    "date": "2018"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1477238.0,
+                    "dateOrder": "2018",
+                    "date": "2018"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 966.0,
+                    "dateOrder": "2018",
+                    "date": "2018"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 4491267.0,
+                    "dateOrder": "2018",
+                    "date": "2018"
+                },
+                {
+                    "categoryOrder": 1,
+                    "category": "Comercial",
+                    "value": 1156419.0,
+                    "dateOrder": "2019",
+                    "date": "2019"
+                },
+                {
+                    "categoryOrder": 2,
+                    "category": "Industrial",
+                    "value": 1535280.0,
+                    "dateOrder": "2019",
+                    "date": "2019"
+                },
+                {
+                    "categoryOrder": 5,
+                    "category": "Outras Classes",
+                    "value": 415281.0,
+                    "dateOrder": "2019",
+                    "date": "2019"
+                },
+                {
+                    "categoryOrder": 3,
+                    "category": "Residencial",
+                    "value": 1482843.0,
+                    "dateOrder": "2019",
+                    "date": "2019"
+                },
+                {
+                    "categoryOrder": 4,
+                    "category": "Rural",
+                    "value": 904.0,
+                    "dateOrder": "2019",
+                    "date": "2019"
+                },
+                {
+                    "categoryOrder": 9,
+                    "category": "Total",
+                    "value": 4590728.0,
+                    "dateOrder": "2019",
+                    "date": "2019"
+                }
+            ]
+        },
+        "energia03": {
+            "metadata": {
+                "name": "Gasto médio domiciliar com energia elétrica",
+                "eixoTematico": "Energia",
+                "subeixo": null,
+                "periodicidade": "Decenal",
+                "abrangencia": "Municipal",
+                "fonte": "IBGE - Instituto Brasileiro de Geografia e Estatistica",
+                "baseDados": "POF - Pesquisa de Orçamentos Familiares",
+                "conceito": null,
+                "unidade": "Real (R$)",
+                "singlePlace": "Curitiba",
+                "chartType": "card"
+            },
+            "data": [
+                {
+                    "value": 140.6,
+                    "date": "2018"
+                }
+            ]
+        },
+        "energia04": {
+            "metadata": {
+                "name": "Gasto médio domiciliar com gás",
+                "eixoTematico": "Energia",
+                "subeixo": null,
+                "periodicidade": "Decenal",
+                "abrangencia": "Municipal",
+                "fonte": "IBGE - Instituto Brasileiro de Geografia e Estatistica",
+                "baseDados": "POF - Pesquisa de Orçamentos Familiares",
+                "conceito": null,
+                "unidade": "Real (R$)",
+                "singlePlace": "Curitiba",
+                "chartType": "card"
+            },
+            "data": [
+                {
+                    "value": 37.4,
+                    "date": "2018"
+                }
+            ]
+        }
+    }
+]
